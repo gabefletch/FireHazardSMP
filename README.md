@@ -1,1 +1,2 @@
-![banner](https://github.com/gabefletch/FireHazardSMP/assets/38300939/1671e35b-852c-4ccd-b3b4-2a0d4b7b2619)
+# The Fire Hazard SMP
+The Fire Hazard SMP is a private 1.20.2 Vanilla+ Minecraft server. This is the backup repository for said server. 
